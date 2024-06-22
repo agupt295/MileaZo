@@ -17,5 +17,6 @@ npm install pg;
 npm install axios;
 npm install cors
 
-# The application is no longer connected with postgreSQL Database
+# Database
+(The application is no longer connected with postgreSQL Database)
 Connection in progress..., the README file will be updated once working.
